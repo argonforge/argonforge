@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-argonforge-181717?style=flat-square&logo=github" alt="Profile Badge" />
   <img src="https://img.shields.io/badge/Welcome-%F0%9F%91%8B-ff69b4?style=flat-square" alt="Welcome" />
-  <img src="https://img.shields.io/badge/Pronouns-They%2FThem-blueviolet?style=flat-square" alt="Pronouns" />
 </p>
 
 <p align="center">
@@ -32,8 +31,7 @@
 
 ## 🤝 Let's Connect
 
-- 📫 **Reach me:** _your.email@example.com_ (replace with your real email)
-- 💬 Pronouns: _They/Them_
+- 📫 **Contact:** allanvalentineai@gmail.com
 - 🌐 [GitHub Profile](https://github.com/argonforge)
 
 ---
