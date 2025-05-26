@@ -23,7 +23,7 @@
 
 ## 🚀 Interests & Learning
 
-- 💡 Currently learning: _Your favorite language or framework here!_
+- 💡 Currently learning: Machine Learning
 - ⚡ Interests: _AI, automation, web development, and more_
 - 🌱 Always growing, always curious
 
